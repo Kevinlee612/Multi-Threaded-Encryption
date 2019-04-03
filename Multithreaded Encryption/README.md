@@ -43,7 +43,7 @@ CipherShifter
 
 ## Author
 
-* **Suk Chan Lee**(mailto:scl002@ucsd.edu)
+* **Suk Chan Lee** (mailto:scl002@ucsd.edu)
 
 
 ## Acknowledgments
